@@ -7,7 +7,12 @@ WASD for moving
 
 space/left shift for Up/Down
 
-Right click to release the mouse
+Right click to release the mouse in order to use the UI on the left.
+
+You can change the stars densities, sizes and initial speed.
+
+You can also set the global gravity constant or even use a negative one, anchore a star, have everything only on a 2D pane, pause/unpause the physics and stop everything where it is.
+
 
 
 ![Screenshot](grav1.png?raw=true)
