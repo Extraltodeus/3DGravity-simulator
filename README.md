@@ -13,7 +13,10 @@ You can change the stars densities, sizes and initial speed.
 
 You can also set the global gravity constant or even use a negative one, anchore a star, have everything only on a 2D pane, pause/unpause the physics and stop everything where it is.
 
+Check out the repository release if you want to try it!
 
+
+A few screenshots :
 
 ![Screenshot](grav1.png?raw=true)
 
