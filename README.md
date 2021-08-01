@@ -1,5 +1,5 @@
 # 3DGravity-simulator
-A simple unity project that I've made for fun with Unity.
+A simple unity project that I've made for fun.
 
 Controls are simple :
 
