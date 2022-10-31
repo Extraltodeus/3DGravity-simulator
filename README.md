@@ -25,5 +25,4 @@ A few screenshots :
 ![Screenshot](grav3.png?raw=true)
 
 Featured on a greek tech blog :
-
 https://www.dwrean.net/2020/10/3d-prosomoioths-varythtas.html
